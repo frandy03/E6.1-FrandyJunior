@@ -1,11 +1,28 @@
 
-body{
-  div { background-image: url("img/fondo.jpg"); }
+
+
+body {
+font: 10px;
+text-align: left;
+background-image: img("fondo2.jpg");
+
+}
+
+h1{
+color:#FF0000;
+text-align:left;
 }
 
 
-h1 {
-  background-color:
+p{
+font-size:12ppx;
+color:#0000FF;
+text-align:left;
 }
 
-<p>
+a{
+font-style:normal;
+font-size:20px;
+text-align:center;
+
+}
